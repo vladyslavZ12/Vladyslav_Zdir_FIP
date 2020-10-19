@@ -1,0 +1,19 @@
+{   
+    "portfolioPicturesMainPage":[
+       "picture1.jpg",
+       "picture2.jpg",
+       "picture3.jpg",
+       "picture4.jpg",
+       "picture5.jpg"
+    ],
+
+    "portfolioVideos":[
+        "video1.mp4",
+        "video2.mp4",
+        "video3.mp4",
+        "video4.mp4",
+        "video5.mp4"
+     ]
+
+     
+ }
